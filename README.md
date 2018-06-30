@@ -2,4 +2,4 @@
 
 # School
 
-This repository holds a few projects I've worked on during my (ongoing) M.Sc. degree.
+This repository holds a few projects I've worked on during my M.Sc. degree (2017-19).
